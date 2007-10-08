@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2039
+
+It bases on Chris Russell&#039s BlockComment and i just added some enhancement to it.
+Simply type : <range> C to comment and <range> NC to uncomment. The original functions are also supported.
